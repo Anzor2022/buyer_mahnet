@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686696478424",
+    "project_id": "mahnet-b6005",
+    "storage_bucket": "mahnet-b6005.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686696478424:android:362fc5f7f5ce3208a189ad",
+        "android_client_info": {
+          "package_name": "ru.mahnet.buyer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkn3tB19be0O-_JSjSgKUuVx7V29JyE2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
